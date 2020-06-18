@@ -1,0 +1,300 @@
+header, section, footer {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header {
+	height: 120px;
+	background-color: #ff00ff;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#container_header {
+	width: 1024px;
+	height: 80px;
+	background-color: #67087b;
+	float: left;
+	position: relative;
+	margin-top: 30px;
+
+}
+
+#logo {
+	width: 309px;
+	height: 60px;
+	background-color: #fff200;
+	float: left;
+	margin-top: 10px;
+	margin: left 10px;
+}
+
+#keypad {
+	width: 558px;
+	height: 60px;
+	background-color:#f91128;
+	float: right;
+	margin-top: 10px;
+}
+
+#section_start {
+	height: 640px;
+	background-color: #818181;
+}
+
+#box_presentation {
+	height: 600px;
+	width: 980px;
+	background-color: #b5e61d;
+	float:left;
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+#title1{
+	height: 240px;
+	width: 940px;
+	background-color: #ff7f27;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#imagen1{
+	height: 300px;
+	width: 940px;
+	background-color: #00a2e8;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+#section_about_me {
+	height: 700px; 
+	background-color: #f91128;
+}
+
+#imagen_about_me {
+	height: 650px;
+	width: 480px;
+	background-color: #00a2e8;
+	float: left;
+	margin-left: 20px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+#name {
+	height: 650px;
+	width: 60px;
+	background-color: #ff7f27;
+	float: left;
+	margin-left: 0px;
+}
+
+#container_about_me {
+	height: 650px;
+	width: 500px;
+	background-color: #b5e61d;
+	float: left;
+	margin-top: 25px;
+}
+
+#title_about_me {
+	height: 60px;
+	width: 460px;
+	background-color: #ff7f27;
+	float: left;
+	margin-left: 20px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+.paragraph_about_me {
+	height: 230px;
+	width: 460px;
+	background-color: #ff00ff;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+
+#section_training {
+	height: 700px;
+	background-color: #fff200;
+}
+
+#training {
+	height: 650px;
+	width: 480px;
+	background-color: #00a2e8;
+	float: left;
+	margin-left: 20px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+#training_title {
+	height: 60px;
+	width: 440px;
+	background-color: #ff00ff;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#training_imagen {
+	height: 510px;
+	width: 440px;
+	background-color: #f91128;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+#container_training_list {
+	height: 640px;
+	width: 495px;
+	background-color: #67087b;
+	float: left;
+	margin-top: 25px;
+	padding: 5px;
+}
+
+.training_card {
+	height: 161px;
+	width: 430px;
+	background-color: #818181;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	padding: 7px;
+}
+
+.imagen_card {
+	height: 161px;
+	width: 88px;
+	background-color: #ff7f27;
+	float: left;
+	vertical-align: top;
+	margin-left: 0px;	
+}
+
+.training_card_title {
+	height: 40px;
+	width: 200px;
+	background-color: #ff00ff;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.training_card_title {
+	height: 40px;
+	width: 300px;
+	background-color: #ff00ff;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.training_card_paragraph {
+	height: 121px;
+	width: 300px;
+	background-color: #b5e61d;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px
+}
+
+
+#aim_section {
+	height: 450px;
+	background-color: #ff7f27;
+}
+
+#aim_container {
+	height: 390px;
+	width: 480px;
+	background-color: #00a2e8;
+	float: left;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+#aim_title {
+	height: 60px;
+	width: 400px;
+	background-color: #f91128;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#aim_paragraph {
+	height: 240px;
+	width: 400px;
+	background-color: #b5e61d;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#aim_imagen {
+	height: 380px;
+	width: 495px;
+	background-color: #666666;
+	float: left;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	padding: 5px;
+}
+
+footer {
+	height: 250px;
+	background-color: #ff00ff;
+	margin-top: 0px;
+}
+
+#contact_section {
+	height: 200px;
+	width: 900px;
+	background-color: #b5e61d;
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+#contact_container {
+	height: 40px;
+	width: 850px;
+	background-color: #fff200;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+#red_container {
+	height: 110px;
+	width: 850px;
+	background-color: #ff7f27;
+	margin-left: 20px;
+	margin-bottom: 30px;
+}

@@ -1,0 +1,278 @@
+header, section, footer {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header {
+	height: 120px;
+	background-color: #CCB9BC;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#container_header {
+	width: 1024px;
+	height: 80px;
+	background-color: #F5F5F6;
+	float: left;
+	position: relative;
+	margin-top: 30px;
+
+}
+
+#logo {
+	width: 309px;
+	height: 60px;
+	background-color: #E1E2E1;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#keypad {
+	width: 558px;
+	height: 60px;
+	background-color:#E1E2E1;
+	float: right;
+	margin-top: 10px;
+}
+
+#section_start {
+	height: 640px;
+	background-color: #E1E2E1;
+}
+
+#presentation_box {
+	height: 600px;
+	width: 980px;
+	background-color: #442c2e;
+	float: left;
+	height: 390px;
+	width: 480px;
+	background-color: #F5F5F6;
+	float: left;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+#aim_title {
+	height: 60px;
+	width: 440px;
+	background-color: #E5DEDE;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#aim_paragraph {
+	height: 260px;
+	width: 440px;
+	background-color: #E5DEED;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#aim_imagen {
+	height: 380px;
+	width: 495px;
+	background-color: #F9D8AC;
+	float: left;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	padding: 5px;
+}
+
+footer {
+	height: 250px;
+	background-color: #442c2e;
+}
+
+#contact_section {
+	height: 200px;
+	width: 900px;
+	background-color: #FEDBD0;
+	margin: 20px 10px 20px 20px;
+}
+
+#box_title {
+	height: 240px;
+	width: 940px;
+	background-color: #FEDBD0;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#presentation_imagen {
+	height: 300px;
+	width: 940px;
+	background-color: #FEDBD0;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+#about_me_section {
+	height: 700px;
+	background-color: #666666;
+}
+
+#about_me_imagen {
+	height: 650px;
+	width: 480px;
+	background-color: #CCB9BC;
+	float: left;
+	margin-left: 20px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+#name_container {
+	height: 650px;
+	width: 60px;
+	background-color: #E5DEDE;
+	float: left;
+}
+
+#about_me_container {
+	height: 650px;
+	width: 500px;
+	background-color: #F9D8AC;
+	float: left;
+	margin-top: 25px;
+}
+
+#about_me_title {
+	height: 60px;
+	width: 460px;
+	background-color: #FEDBD0;
+	float: left;
+	margin-left: 20px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+.about_me_paragraph {
+	height: 230px;
+	width: 460px;
+	background-color: #feeae6;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+
+#training_section {
+	height: 700px;
+	background-color: #E1E2E1;
+}
+
+#training_container {
+	height: 650px;
+	width: 480px;
+	background-color: #F9D8AC;
+	float: left;
+	margin-left: 20px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+#training_title {
+	height: 60px;
+	width: 440px;
+	background-color: #FEDBD0;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#training_imagen {
+	height: 510px;
+	width: 440px;
+	background-color: #feeae6;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+#training_list_container {
+	height: 650px;
+	width: 495px;
+	background-color: #CCB9BC;
+	float: left;
+	margin-top: 25px;
+}
+
+.training_card {
+	height: 161px;
+	width: 430px;
+	background-color: #666666;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	padding: 7px;
+}
+
+.imagen_card {
+	height: 161px;
+	width: 88px;
+	background-color: #CCB9BC;
+	float: left;
+	vertical-align: top;
+}
+
+.training_card_title {
+	height: 40px;
+	width: 340px;
+	background-color: #E1E2E1;
+	float: left;
+}
+
+
+.training_card_paragraph {
+	height: 121px;
+	width: 340px;
+	background-color: #F5F5F6;
+	float: left;
+}
+
+
+#aim_section {
+	height: 450px;
+	background-color: #CCB9BC;
+}
+
+#aim_container {
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+#contact_container {
+	height: 40px;
+	width: 850px;
+	background-color: #CCB9BC;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+#red_container {
+	height: 110px;
+	width: 850px;
+	background-color: #E5DEDE;
+	margin-left: 20px;
+	margin-bottom: 30px;
+}
